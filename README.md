@@ -22,8 +22,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Personal Finance - AI-Powered Transaction Analysis System** | A financial transaction categorizer leveraging AI to organize personal finance and generate valuable insights | 🔗 https://github.com/kavinsaravan/PersonalFinance |
-| **SafePath** | An intuitive platform that provides safe pedestrian routes for San Francisco residents using a weighted machine learning algorithm and AWS architecture | 🔗 https://github.com/kavinsaravan/AWS_Hackathon2025 |
+| **Personal Finance - AI-Powered Transaction Analysis System** | A financial transaction categorizer leveraging AI to organize personal finance and generate valuable insights | 🔗 [Github link](https://github.com/kavinsaravan/PersonalFinance) |
+| **SafePath** | An intuitive platform that provides safe pedestrian routes for San Francisco residents using a weighted machine learning algorithm and AWS architecture | 🔗 [Github link](https://github.com/kavinsaravan/AWS_Hackathon2025) |
 
 ---
 
