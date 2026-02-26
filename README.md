@@ -21,8 +21,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Cool App** | A productivity app built with React + Firebase | 🔗 github.com/johndoe/cool-app |
-| **API Kit** | Reusable tools for building public APIs | 🔗 github.com/johndoe/api-kit |
+| **Personal Finance - AI-Powered Transaction Management System** | A financial transaction categorizer leveraging AI to organize personal finance and generate valuable insights | 🔗 https://github.com/kavinsaravan/PersonalFinance |
+| **AWS Hackathon2025** | An intuitive platform that provides safe pedestrian routes for SF residents using a weighted machine learning algorithm and scalable AWS architecture | 🔗 https://github.com/kavinsaravan/AWS_Hackathon2025 |
 
 ---
 
