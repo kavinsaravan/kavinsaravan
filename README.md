@@ -2,18 +2,19 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer
 
-🔭 I’m currently working on building scalable web applications  
-🌱 I’m learning MCP and advanced RAG  
+🔭 I’m currently working on building scalable intelligent applications  
+🌱 I’m learning MCP and advanced RAG
 👯 I’m looking to collaborate on open-source tools in JavaScript & Python  
-💬 Ask me about React, Node.js, or APIs  
+💬 Ask me about React, Python, or APIs
 
 ---
 
 ### 🔧 Skills
 
-- **Frontend:** HTML, CSS, React.js 
-- **Backend/Databases:** Node.js, Flask, C++, Python, Java, MongoDB, SQL
-- **Tools/technologies:** Cursor, Postman, OpenAI, Kubernetes, Claude Code, Codex, AWS, Firebase  
+- **Programming languages:**  Python, Java, JavaScript, HTML/CSS, C++,  Swift (iOS), SQL, C 
+- **Frameworks:** Node.js, React.js, Flask, Pytorch, FastAPI, Tensorflow, NumPy
+- **Tools:** GitHub, VS Code, XCode, Cursor, Postman, MongoDB, OpenAI, Claude Code, Codex
+- **Cloud and database technologies:** AWS, Azure, Firebase, Kubernetes
 
 ---
 
