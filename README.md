@@ -12,7 +12,7 @@
 ### 🔧 Skills
 
 - **Programming languages:**  Python, Java, JavaScript, HTML/CSS, C++,  Swift (iOS), SQL, C 
-- **Frameworks:** Node.js, React.js, Flask, Pytorch, FastAPI, Tensorflow, NumPy
+- **Frameworks:** Node.js, React.js, React Native, Flask, Pytorch, FastAPI, Tensorflow, NumPy
 - **Tools:** GitHub, VS Code, XCode, Cursor, Postman, MongoDB, OpenAI, Claude Code, Codex
 - **Cloud and database technologies:** AWS, Azure, Firebase, Kubernetes
 
