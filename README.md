@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer
 
-🔭 I’m currently working on building scalable intelligent applications  
+🔭 I’m currently working on building scalable agentic applications  
 🌱 I’m learning MCP and advanced RAG 
 👯 I’m looking to collaborate on open-source tools in JavaScript & Python  
 💬 Ask me about React, Python, or APIs
