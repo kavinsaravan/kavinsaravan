@@ -2,9 +2,9 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer
 
-🔭 I’m currently working on building scalable, agentic applications       
+🔭 I’m currently working on building scalable, intelligent applications   
+👯 I'm looking to build and contribute to open-source agentic solutions using Python & LangGraph           
 🌱 I’m learning MCP and advanced RAG architectures         
-👯 I'm looking to build and contribute to open-source autonomous solutions using Python & LangGraph           
 💬 Ask me about React, Python, or APIs
 
 ---
