@@ -14,7 +14,7 @@
 - **Programming languages:**  Python, Java, JavaScript, HTML/CSS, C/C++, Swift (iOS), SQL 
 - **Frameworks:** Node.js, React.js, React Native, Flask, Pytorch, LangChain, FastAPI, LlamaIndex
 - **Tools:** GitHub, VS Code, Vercel, Cursor, Jira, Postman, OpenAI, Claude Code
-- **Cloud and database technologies:** AWS, Azure, Firebase, MongoDB, Docker
+- **Cloud and database technologies:** AWS, MySQL, Firebase, MongoDB, Docker
 
 ---
 
