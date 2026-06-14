@@ -3,7 +3,7 @@
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer
 
 🔭 I’m currently working on building scalable, intelligent applications   
-👯 I'm looking to build and contribute to open-source agentic solutions and learn more about AI tools, such as MCP, RAG, and LangChain
+👯 I'm enjoy building and contributing to open-source agentic solutions and learning more about AI tools, such as MCP, RAG, and LangChain
 
 ---
 
