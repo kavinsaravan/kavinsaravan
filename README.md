@@ -1,9 +1,9 @@
 ## Welcome to my GitHub profile 👋
 
-### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer
+### 🚀 Computer Science @ Santa Clara University | Aspiring Software Engineer interested in agents, distributed systems, and ML infrastructure 
 
-🔭 I’m currently working on building scalable, intelligent applications   
-👯 I enjoy building and contributing to open-source agentic solutions and learning more about AI tools, such as MCP, RAG, and LangChain
+🔭 I enjoy building scalable software systems that make AI applications faster, cheaper, and more reliable.
+👯 I'm currently learning more about AI tools and frameworks, such as MCP, RAG, and LangChain
 
 ---
 
