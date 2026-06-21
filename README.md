@@ -2,8 +2,8 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software/ML Engineer interested in agents, distributed systems, and ML infrastructure 
 
-🔭 I enjoy building scalable software systems that make AI applications faster, cheaper, and more reliable.
-👯 I'm currently learning more about AI tools and frameworks, such as MCP, RAG, and LangChain
+🔭 I enjoy building AI systems that make applications faster, cheaper, and more reliable.
+👯 I'm currently learning more about agentic tools and frameworks, such as MCP, RAG, and LangChain
 
 ---
 
