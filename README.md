@@ -20,8 +20,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Personal Finance - AI-Powered Transaction Analysis System** | A financial transaction categorizer leveraging AI to organize personal finance and generate valuable insights.   [![Demo]]() | 🔗 [Github link](https://github.com/kavinsaravan/PersonalFinance) |
-| **SafePath** | An intuitive platform that provides safe pedestrian routes for San Francisco residents using a weighted machine learning algorithm and AWS architecture | 🔗 [Github link](https://github.com/kavinsaravan/AWS_Hackathon2025) |
+| **DriftCache** | A semantic caching platform that identifies duplicate LLM API calls. Includes LangGraph agent architecture to detect semantic drift.   [![Demo]]() | 🔗 [Github link](https://github.com/kavinsaravan/PersonalFinance) |
+| **CrashLens - AI-Powered Diagnoser for ML Failures** | A tool that finds failures for GPU workload and agent traces and recommends repair solutions. | 🔗 [Github link](https://github.com/kavinsaravan/AWS_Hackathon2025) |
 
 ---
 
