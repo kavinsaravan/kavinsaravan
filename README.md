@@ -20,8 +20,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **DriftCache** | A semantic caching platform that identifies duplicate LLM API calls. Includes LangGraph agent architecture to detect semantic drift.   [![Demo]]() | 🔗 [Github link](https://github.com/kavinsaravan/PersonalFinance) |
-| **CrashLens - AI-Powered Diagnoser for ML Failures** | A tool that finds failures for GPU workload and agent traces and recommends repair solutions. | 🔗 [Github link](https://github.com/kavinsaravan/AWS_Hackathon2025) |
+| **DriftCache** | Semantic caching platform that identifies duplicate LLM API calls. Includes LangGraph agent architecture to detect semantic drift.   [![Demo]]() | 🔗 [Github link](https://github.com/kavinsaravan/PersonalFinance) |
+| **CrashLens - AI-Powered Diagnoser for ML Failures** | Automated tool that finds failures for GPU workload and agent traces and recommends repair solutions. | 🔗 [Github link](https://github.com/kavinsaravan/AWS_Hackathon2025) |
 
 ---
 
