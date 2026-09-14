@@ -9,9 +9,9 @@
 ### 🔧 Skills
 
 - **Programming languages:**  Python, Go, Java, JavaScript, TypeScript, C/C++, Swift (iOS), SQL 
-- **Frameworks:** Node.js, React.js, Flask, Scikit-learn, Pandas, PyTorch, LangChain, LangGraph, FastAPI, LlamaIndex, Keras
-- **Tools:** GitHub, Render, Vercel, Cursor, Postman, Codex, Claude Code, Pydantic
-- **Cloud and database technologies:** AWS, MySQL, Firebase, MongoDB, Docker, Redis, PostgreSQL
+- **Frameworks:** Node.js, React.js, Flask, FastAPI, scikit-learn, NumPy, SciPy, PyTorch, LangChain, LangGraph, LlamaIndex
+- **Tools:** GitHub, Claude Code, Cursor, Codex, Hugging Face, Vercel, Postman, Pydantic
+- **Cloud/database:** AWS, MySQL, Firebase, MongoDB, Docker, Redis, PostgreSQL
 
 ---
 
@@ -19,8 +19,8 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **DriftCache** | Semantic caching platform that identifies duplicate LLM API calls. Includes LangGraph agent architecture to detect semantic drift. | 🔗 [Github link](https://github.com/kavinsaravan/DriftCache) |
-| **CrashLens - AI-Powered Diagnoser for ML Failures** | Automated tool that finds failures for GPU workload and agent traces and recommends repair solutions. | 🔗 [Github link](https://github.com/kavinsaravan/ML-Failure-Doctor) |
+| **DriftCache** | Semantic caching platform that identifies and reuses duplicate LLM API calls. Includes LangGraph agent architecture to detect semantic drift. | 🔗 [Github link](https://github.com/kavinsaravan/DriftCache) |
+| **CrashLens - AI-Powered Diagnoser for ML Failures** | Automated tool that finds GPU workload/agent trace failures and recommends repair solutions. | 🔗 [Github link](https://github.com/kavinsaravan/ML-Failure-Doctor) |
 
 ---
 
