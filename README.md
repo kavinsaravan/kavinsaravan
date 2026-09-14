@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software/ML Engineer
 
-🔭 I enjoy building AI systems and learning more about agentic tools and frameworks, such as MCP, RAG, and LangChain
+🔭 I enjoy building scalable AI systems that solve meaningful issues and create valuable impact
 
 ---
 
