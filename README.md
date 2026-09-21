@@ -10,7 +10,7 @@
 
 - **Programming languages:**  Python, Go, Java, JavaScript, TypeScript, C/C++, Swift (iOS), SQL 
 - **Frameworks:** Node.js, React.js, Flask, FastAPI, scikit-learn, NumPy, SciPy, PyTorch, LangChain, LangGraph, LlamaIndex
-- **Tools:** GitHub, Claude Code, Cursor, Codex, Hugging Face, Vercel, Postman, Pydantic
+- **Tools:** GitHub, Claude Code, Codex, Hugging Face, Vercel, Postman, Pydantic
 - **Cloud/database:** AWS, MySQL, Firebase, MongoDB, Docker, Redis, PostgreSQL
 
 ---
