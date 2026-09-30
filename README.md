@@ -8,7 +8,7 @@
 
 ### 🔧 Skills
 
-- **Programming languages/frameworks:**  Python, Go, Java, JavaScript, TypeScript, Node.js, React.js, Flask, C/C++, Swift, SQL, FastAPI
+- **Languages/frameworks:**  Python, Go, Java, JavaScript, TypeScript, Node.js, React.js, Flask, C/C++, Swift, SQL, FastAPI
 - **Tools:** GitHub, Claude Code, Codex, Cursor, Vercel, Postman, Slack, Jira
 - **AI/ML**: NumPy, SciPy, PyTorch, LangChain, LangGraph, LlamaIndex, Hugging Face, scikit-learn
 - **Cloud/database:** AWS, MySQL, Firebase, MongoDB, Docker, Redis, PostgreSQL
