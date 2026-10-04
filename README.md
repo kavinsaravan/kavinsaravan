@@ -2,7 +2,7 @@
 
 ### 🚀 Computer Science @ Santa Clara University | Aspiring Software/ML Engineer
 
-🔭 I enjoy building scalable AI systems that solve meaningful issues and create impact
+🔭 I enjoy building AI systems that solve everyday issues and create impact
 
 ---
 
